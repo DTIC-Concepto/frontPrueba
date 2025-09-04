@@ -2,7 +2,7 @@
 @import "tailwindcss/theme.css" layer(theme);
 @import "tailwindcss/utilities.css" layer(utilities);
 @layer theme, base, components, utilities;
-@config "../tailwind.config.js";
+/*@config "../tailwind.config.js";*/
 
 /* Configuración de fuentes y soporte para español */
 :root {
@@ -23,7 +23,7 @@ html {
 }
 
 body {
-  @apply leading-[normal] m-0;
+  /*@apply leading-[normal] m-0;*/
   font-family: var(--font-inter);
   font-feature-settings: 'rlig' 1, 'calt' 1;
   background-color: #ffffff;
