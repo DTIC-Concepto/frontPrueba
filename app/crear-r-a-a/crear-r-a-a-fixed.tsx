@@ -319,7 +319,7 @@ const CrearRAA: NextPage = () => {
               />
             </div>
             <div className="absolute top-[12px] right-[167px] rounded-md bg-gray-500 w-[91px] h-10 overflow-hidden text-center">
-
+ 
             </div>
             <div className="absolute top-[13.5px] right-[427.5px] rounded-md bg-white border-gainsboro border-solid border-[1px] box-border w-64 h-9 text-gray-400">
               <div className="absolute top-[calc(50%_-_10.5px)] left-[34px] leading-[22px]">
